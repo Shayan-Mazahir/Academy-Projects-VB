@@ -1,0 +1,1 @@
+1. Write a program which input a number and output if its even or odd
