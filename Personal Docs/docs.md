@@ -82,3 +82,22 @@ Module Module1
     End Sub
 End Module
 ```
+# Loops
+```vb
+Imports System.Console
+Module Module1
+
+    Sub Main()
+    Dim n As Integer
+    n = 1
+
+program:
+
+    WriteLine(n)
+    n = n + 1
+    If n <= 10 Then GoTo program
+
+    End Sub
+End Module
+```
+> For now, as of/for the programs of 11/27/2023 we do not need anything such as End Loop
