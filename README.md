@@ -1,3 +1,5 @@
+# LEFT THE SCHOOL, NOT MAINTAINED ANYMORE
+
 # Visual Basic Repo
 > This repo contains all my codes in Visual Basic which I got assigned by my computer sir.
 
